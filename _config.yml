@@ -11,6 +11,10 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.16545225773006678
+author:
+  name: M. Feurstein
+  email: macfeurstein@gmail.com
+  url: ''
 name: Willkommen bei Feuri
 title: Ich bin so aufgeregt!
 description: Was kommt da wohl raus mit diesem intelligenten Homepagedesign?
