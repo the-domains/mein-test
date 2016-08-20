@@ -6,9 +6,9 @@ color:
   saturation: 0.9233188745565712
   rhythmicContrast: 0.37006958667188883
   brandColors:
-    - '#EDEDED'
-    - '#03080C'
-    - '#374C58'
-    - '#A29E95'
-    - '#4B89AA'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Mein Test
