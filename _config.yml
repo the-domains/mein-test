@@ -1,0 +1,14 @@
+layout_spectrum: 0.16545225773006678
+typography_spectrum: 0.25129078794270754
+color:
+  brandStrength: 0.655266844201833
+  lightness: 0.37408583401702344
+  saturation: 0.9233188745565712
+  rhythmicContrast: 0.37006958667188883
+  brandColors:
+    - '#EDEDED'
+    - '#03080C'
+    - '#374C58'
+    - '#A29E95'
+    - '#4B89AA'
+name: Mein Test
