@@ -1,14 +1,36 @@
-layout_spectrum: 0.16545225773006678
-typography_spectrum: 0.25129078794270754
+author:
+  name: M. Feurstein
+  email: macfeurstein@gmail.com
+  url: ''
+title: Ich bin so aufgeregt!
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.655266844201833
-  lightness: 0.37408583401702344
   saturation: 0.9233188745565712
-  rhythmicContrast: 0.37006958667188883
+  brandStrength: 0.655266844201833
+  rhythmicContrast: 0.3700695866718888
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-name: Mein Test
+  lightness: 0.3740858340170234
+typography_spectrum: 0.2512907879427075
+description: Was kommt da wohl raus mit diesem intelligenten Homepagedesign?
+navigation:
+  - name: Verein
+    url: 'http://www.mv-hoerbranz.at'
+    type: external
+layout_spectrum: 0.5977443
+name: Willkommen bei Feuri
